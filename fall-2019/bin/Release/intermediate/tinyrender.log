@@ -1,0 +1,18 @@
+﻿  renderer.cpp
+C:\A5\fall-2019\src\integrators\direct.h(121,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(192,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(265,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(299,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(378,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(434,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\direct.h(391,10): warning C4101: 'pos': unreferenced local variable
+C:\A5\fall-2019\src\integrators\direct.h(392,10): warning C4101: 'ne': unreferenced local variable
+C:\A5\fall-2019\src\integrators\polygonal.h(115,23): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\polygonal.h(125,11): warning C4101: 'emPDF': unreferenced local variable
+C:\A5\fall-2019\src\integrators\polygonal.h(172,21): warning C4018: '<': signed/unsigned mismatch
+C:\A5\fall-2019\src\integrators\polygonal.h(276,22): warning C4101: 'infoShadow': unreferenced local variable
+C:\A5\fall-2019\src\renderpasses\polygonal.h(121,21): warning C4018: '<': signed/unsigned mismatch
+  tinyrender.vcxproj -> C:\A5\fall-2019\bin\Release\tinyrender.exe
+  C:\A5\fall-2019\externals\opengl\dll\glew32.dll
+  C:\A5\fall-2019\externals\opengl\dll\SDL2.dll
+  2 File(s) copied
